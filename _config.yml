@@ -1,0 +1,82 @@
+# Site settings
+title: QT Page
+SEOTitle: Qianyu Teng's Webpage | QT Page
+header-img: img/post-bg-desk.jpg
+email: tqy19971217@gmail.com
+description: "Every failure is leading towards success."
+keyword: "QT, QT Page, Qianyu Teng, Introduction, hobbies, University, Language"
+url: "http://QianyuTeng.github.io"         
+baseurl: ""     
+github_repo: "https://github.com/QianyuTeng/QianyuTeng.github.io.git" 
+
+# Sidebar settings
+sidebar: true                         
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: /img/微信图片_20190321105749.jpg     
+
+
+
+# SNS settings
+RSS: false
+# weibo_username:   滕乾宇
+github_username:    Qianyu Teng
+facebook_username:  Henry Teng
+
+
+
+
+# Build settings
+
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                        
+
+
+
+# Gems
+
+gems: [jekyll-paginate]
+
+
+
+
+# Markdown settings
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                           
+
+
+
+# 评论系统
+# Disqus（https://disqus.com/）
+# disqus_username: qianyuteng
+
+# Gitalk
+gitalk:
+  enable: true    
+  clientID:  07e6d90de156fe5721dc                           
+  clientSecret: 59c17db08e24e931c0433136b2dab598e05d1042   
+  repo: qianyuteng.github.io    #仓库名称
+  owner: qianyuteng    
+  admin: qianyuteng
+  distractionFreeMode: true #启用类似FB的阴影遮罩
+
+
+
+
+
+
+
+
+# Featured Tags
+featured-tags: true                     
+featured-condition-size: 0            
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true

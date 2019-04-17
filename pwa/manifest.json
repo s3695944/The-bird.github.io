@@ -1,0 +1,19 @@
+{
+  "name": "QT PAGE",
+  "short_name": "QT PAGE",
+  "description": "A personal PAGE by student",
+  "icons": [{
+    "src": "icons/pwa_icon_128.png",
+    "sizes": "128x128",
+    "type": ""
+  }, {
+    "src": "icons/pwa_icon_512.png",
+    "sizes": "512x512",
+    "type": ""
+  }],
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
