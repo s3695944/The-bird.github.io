@@ -1,13 +1,13 @@
 # Site settings
-title: QT Page
-SEOTitle: Qianyu Teng's Webpage | QT Page
+title: The Bird
+SEOTitle: The bird's Webpage | The bird Page
 header-img: img/post-bg-desk.jpg
 email: tqy19971217@gmail.com
 description: "Every failure is leading towards success."
-keyword: "QT, QT Page, Qianyu Teng, Introduction, hobbies, University, Language"
-url: "http://QianyuTeng.github.io"         
+keyword: "The Bird, QT Page, Qianyu Teng, Introduction, hobbies, University, Language"
+url: "http://The-bird.github.io"         
 baseurl: ""     
-github_repo: "https://github.com/QianyuTeng/QianyuTeng.github.io.git" 
+github_repo: "https://github.com/QianyuTeng/The-bird.github.io.git" 
 
 # Sidebar settings
 sidebar: true                         
