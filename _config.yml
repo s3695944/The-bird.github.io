@@ -10,9 +10,9 @@ baseurl: ""
 github_repo: "https://github.com/QianyuTeng/The-bird.github.io.git" 
 
 # Sidebar settings
-sidebar: false                         
+sidebar: true                         
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/niao.jpg      
+sidebar-avatar:   
 
 
 
