@@ -1,7 +1,7 @@
 {
-  "name": "QT page",
-  "short_name": "QT page",
-  "description": "A personal page by RMIT students",
+  "name": "The bird ",
+  "short_name": "The bird",
+  "description": "A group page by RMIT students",
   "icons": [{
     "src": "img/timg.jpg ",
     "sizes": "128x128",
