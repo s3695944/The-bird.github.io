@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Personal Profile
+title:      Personal Profile (Qianyu Teng)
 subtitle:   used by employers to get specific information about potential employees.
 date:       2019-03-30
 author:     QT
